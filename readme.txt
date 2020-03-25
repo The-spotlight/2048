@@ -1,2 +1,1 @@
-git is a
-git is free software。
+2048是一个益智的小游戏。
